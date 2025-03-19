@@ -33,7 +33,9 @@ In developing this end-to-end mahine learning project, the technologies used inc
 - **Tools & Platforms:** 
   - Git and GitHub for version control
 
+## Contributing to Project
 
+##### Note: The file is large and cannot be added to the repo, you need to download the file  <a href="https://cdn.stackoverflow.co/files/jo7n4k8s/production/49915bfd46d0902c3564fd9a06b509d08a20488c.zip/stack-overflow-developer-survey-2023.zip">here</a> and add it to the root folder before running pipeline
 
 ```
 1. **Fork the repository** and create your feature branch:  
